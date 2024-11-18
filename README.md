@@ -1,7 +1,5 @@
-<h1>Hello🤗, I am Anusha</h1>
-<br>
+<h1>Hello🤗, I'm Anusha</h1>
 <h1>💫 About Me:</h1> 
-<br>
 I am a Student.
 
 
