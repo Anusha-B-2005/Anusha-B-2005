@@ -1,5 +1,5 @@
 <h1>Hello...🤗, I'm Anusha B</h1>
-<h1>💫 About Me:</h1> 
+<h3>💫 About Me:</h3> 
 Student at JSS Science and Technology University
 
 
